@@ -4,7 +4,7 @@
 
 
 ## Live Demo
-[Front-End World](https://devmohamed-hassan.github.io/front-end-world-template/)
+[Front-End World](https://devmohamed-hassan.github.io/FrontEnd-world-Template/)
 
 ---
 
